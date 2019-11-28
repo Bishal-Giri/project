@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorControl.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.Properties.Resources.resources
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorControl.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorControl.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\bin\Debug\ElevatorProject.exe.config
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\bin\Debug\ElevatorProject.exe
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\bin\Debug\ElevatorProject.pdb
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.ElevatorControl.resources
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.exe
+C:\Users\pc\Desktop\2nd year book\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.pdb
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\bin\Debug\ElevatorProject.exe.config
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\bin\Debug\ElevatorProject.exe
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\bin\Debug\ElevatorProject.pdb
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorControl.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.ElevatorControl.resources
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.Properties.Resources.resources
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorControl.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorControl.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.exe
+C:\Users\pc\Desktop\ElevatorSystem\ElevtorSystem\Elevator\obj\Debug\ElevatorProject.pdb
